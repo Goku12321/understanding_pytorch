@@ -4,10 +4,6 @@ clear
 # install 
 sudo apt-get install graphviz
 
-# go to working directory
-mkdir ~/jupyter
-cd ./jupyter
-
 # set virtual envirement
 virtualenv venv_pytorch
 
