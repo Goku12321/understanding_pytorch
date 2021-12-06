@@ -4,6 +4,6 @@ This tutorial is for who wants to understand more precisely how PyTorch works an
 
 For running the tutorial do the following steps:   
   1. clone the repository / download  the files to your desired path
-  2. 1. for linux: run the command-   source setup_understanding_pytorch.sh 
-     2. for windows and mac maunually: install jupyter notebook and graphviz package -> create a virtualenv -> install all the requirements.txt -> run jupyter
-  5. Enter in Jupyter notebook to Understanding_PyTorch.ipynb
+  2. 1. for linux: run the command   source setup_understanding_pytorch.sh 
+     2. for windows and mac manually: install jupyter notebook and graphviz package -> create a virtualenv -> install all the requirements.txt -> run jupyter
+  3. Enter in Jupyter notebook to Understanding_PyTorch.ipynb
