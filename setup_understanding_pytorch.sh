@@ -5,7 +5,8 @@ clear
 sudo apt-get install graphviz
 
 # set virtual envirement
-virtualenv venv_pytorch
+virtualenv venv
+source venv/bin/activate
 
 # install in virtualenv
 pip install -r ./requirements.txt
